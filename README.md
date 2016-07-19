@@ -1,3 +1,10 @@
+# Why does this fork exist?
+I created this fork so that I could have a way to provide the JW Player dependency to npm, for example:
+
+npm install --save https://github.com/bliles/jwplayer/tarball/master
+
+The distributable or built version of JW Player is available in the bin-release folder.
+
 # <img height="70px" src="http://www.jwplayer.com/wp-content/uploads/JWP-GitHub-Banner-1.png" alt="JW Player Logo" title="JW Player Logo"/>
 
 [![Join the chat at https://gitter.im/jwplayer/jwplayer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jwplayer/jwplayer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
